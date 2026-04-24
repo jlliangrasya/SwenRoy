@@ -7,7 +7,7 @@ const TASKS = [
   '5 formal solo photos',
 ]
 
-export default function Step9({ goTo }) {
+export default function ChallengeChecklist({ goTo }) {
   const [checked, setChecked] = useState(TASKS.map(() => false))
 
   function toggle(i) {

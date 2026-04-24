@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-export default function Step7({ goTo }) {
+export default function PasswordGate({ goTo }) {
   const [secret, setSecret] = useState('')
 
   function handleProceed() {
@@ -10,7 +10,7 @@ export default function Step7({ goTo }) {
       alert('Not yet 💌')
     }
   }
-
+//PASSWORD: Isaiah 9:6
   return (
     <>
       <h1>One more step</h1>

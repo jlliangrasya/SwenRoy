@@ -104,7 +104,7 @@ const SLIDES = [
   },
 ]
 
-export default function Step8({ goTo }) {
+export default function BibleVerseCarousel({ goTo }) {
   const [index, setIndex] = useState(0)
   const startXRef = useRef(0)
   const isDraggingRef = useRef(false)

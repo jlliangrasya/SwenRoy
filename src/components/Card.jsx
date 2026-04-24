@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-export default function Card({ children }) {
+export default function Card({ children, fullscreen = false, wide = false }) {
   const [show, setShow] = useState(false)
 
   useEffect(() => {
@@ -8,8 +8,12 @@ export default function Card({ children }) {
     return () => clearTimeout(t)
   }, [])
 
+  const classes = ['card', fullscreen && 'card--full', wide && 'card--wide', show && 'show']
+    .filter(Boolean)
+    .join(' ')
+
   return (
-    <div className={`card${show ? ' show' : ''}`}>
+    <div className={classes}>
       {children}
     </div>
   )

@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react'
 import { fireConfetti } from '../../utils/confetti'
 
-export default function Step10({ goTo }) {
+export default function PinEntry({ goTo }) {
   const [digits, setDigits] = useState(['', '', '', ''])
   const refs = [useRef(), useRef(), useRef(), useRef()]
 
@@ -22,7 +22,7 @@ export default function Step10({ goTo }) {
       }
     }
   }
-
+//PIN: 1219
   return (
     <>
       <h1>Final Step</h1>

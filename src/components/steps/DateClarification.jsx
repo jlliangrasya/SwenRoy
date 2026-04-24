@@ -1,4 +1,4 @@
-export default function Step3({ goTo }) {
+export default function DateClarification({ goTo }) {
   return (
     <>
       <p style={{ textAlign: 'center', fontWeight: 600, color: 'var(--accent)' }}>

@@ -1,4 +1,4 @@
-export default function Step1({ goTo }) {
+export default function DateInvitation({ goTo }) {
   return (
     <>
       <h1>Can you be my date?</h1>

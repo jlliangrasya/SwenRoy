@@ -1,28 +1,56 @@
 import { useState } from 'react'
 import Card from './components/Card'
-import Step0 from './components/steps/Step0'
-import Step1 from './components/steps/Step1'
-import Step2 from './components/steps/Step2'
-import Step3 from './components/steps/Step3'
-import Step4 from './components/steps/Step4'
-import Step5 from './components/steps/Step5'
-import Step6 from './components/steps/Step6'
-import Step7 from './components/steps/Step7'
-import Step8 from './components/steps/Step8'
-import Step9 from './components/steps/Step9'
-import Step10 from './components/steps/Step10'
-import Step11 from './components/steps/Step11'
+import NameEntry from './components/steps/NameEntry'
+import DateInvitation from './components/steps/DateInvitation'
+import AcceptedCelebration from './components/steps/AcceptedCelebration'
+import DateClarification from './components/steps/DateClarification'
+import PersonalMessage from './components/steps/PersonalMessage'
+import SecretPlansTeaser from './components/steps/SecretPlansTeaser'
+import EventInstructions from './components/steps/EventInstructions'
+import PasswordGate from './components/steps/PasswordGate'
+import BibleVerseCarousel from './components/steps/BibleVerseCarousel'
+import ChallengeChecklist from './components/steps/ChallengeChecklist'
+import PinEntry from './components/steps/PinEntry'
+import FinalBirthdayLetter from './components/steps/FinalBirthdayLetter'
+import WelcomeChoice from './components/steps/WelcomeChoice'
+import ArchivePinEntry from './components/steps/ArchivePinEntry'
+import EnvelopeGrid from './components/steps/EnvelopeGrid'
+import OpenLetter from './components/steps/OpenLetter'
 
-const STEPS = [Step0, Step1, Step2, Step3, Step4, Step5, Step6, Step7, Step8, Step9, Step10, Step11]
+// Indices 0–11: main flow  |  12–15: archive flow
+const STEPS = [
+  NameEntry,           // 0
+  DateInvitation,      // 1
+  AcceptedCelebration, // 2
+  DateClarification,   // 3
+  PersonalMessage,     // 4
+  SecretPlansTeaser,   // 5
+  EventInstructions,   // 6
+  PasswordGate,        // 7
+  BibleVerseCarousel,  // 8
+  ChallengeChecklist,  // 9
+  PinEntry,            // 10
+  FinalBirthdayLetter, // 11
+  WelcomeChoice,       // 12
+  ArchivePinEntry,     // 13
+  EnvelopeGrid,        // 14
+  OpenLetter,          // 15
+]
 
 export default function App() {
   const [step, setStep] = useState(0)
+  const [ctx, setCtx] = useState({})
+
+  function goTo(newStep, newCtx = {}) {
+    setStep(newStep)
+    setCtx(newCtx)
+  }
 
   const StepComponent = STEPS[step]
 
   return (
-    <Card key={step}>
-      <StepComponent goTo={setStep} />
+    <Card key={step} fullscreen={step === 14} wide={step === 15}>
+      <StepComponent goTo={goTo} {...ctx} />
     </Card>
   )
 }

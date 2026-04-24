@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { fireConfetti } from '../../utils/confetti'
 
-export default function Step11() {
+export default function FinalBirthdayLetter() {
   useEffect(() => {
     fireConfetti()
   }, [])

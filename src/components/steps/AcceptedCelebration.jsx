@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { fireConfetti } from '../../utils/confetti'
 
-export default function Step2({ goTo }) {
+export default function AcceptedCelebration({ goTo }) {
   useEffect(() => {
     fireConfetti()
     const t = setTimeout(() => goTo(3), 2000)

@@ -1,18 +1,18 @@
 import { useState } from 'react'
 import { fireConfetti } from '../../utils/confetti'
 
-export default function Step0({ goTo }) {
+export default function NameEntry({ goTo }) {
   const [name, setName] = useState('')
 
   function handleContinue() {
     if (name.trim().toLowerCase() === 'boky') {
       fireConfetti()
-      goTo(1)
+      goTo(12)
     } else {
       alert('Try again 💗')
     }
   }
-
+//PASSWORD: BOKY
   return (
     <>
       <h1>Hello!</h1>

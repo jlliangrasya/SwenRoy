@@ -1,4 +1,4 @@
-export default function Step4({ goTo }) {
+export default function PersonalMessage({ goTo }) {
   return (
     <div className="message-box">
       <p>

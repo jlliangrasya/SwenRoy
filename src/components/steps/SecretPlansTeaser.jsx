@@ -1,4 +1,4 @@
-export default function Step5({ goTo }) {
+export default function SecretPlansTeaser({ goTo }) {
   return (
     <>
       <p style={{ textAlign: 'center' }}>

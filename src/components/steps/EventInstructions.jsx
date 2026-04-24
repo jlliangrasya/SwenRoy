@@ -1,4 +1,4 @@
-export default function Step6({ goTo }) {
+export default function EventInstructions({ goTo }) {
   return (
     <>
       <h1>Instructions</h1>
