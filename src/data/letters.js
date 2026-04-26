@@ -98,6 +98,58 @@ export const LETTERS = [
     `,
     images: [newhairImg],
   },
+  {
+    title: "Done with Week 1",
+    date: "April 26, 2026",
+    content: `Hello, Boky!
+    
+    Ning one week na jud hahaha and I can really feel 
+    like I'm dying to my flesh everyday. Always asking kung kanus-a 
+    ni kutob, Lord. Everyday, sakit kaajo, mura pd kog gibuwagan haha
+    mag check sa messages, mag relapse HAHAHAHA. But we need this.
+    
+    When I saw you last saturday, going down sa elevator.
+    Then I smiled looking at you. I just really missed you.
+    Everything went slow, mura man pud kog highschooler oy HAHAHA
+    But yah, I want to freeze and go to another way pero ana si
+    Elaiza "ayh sakto naa nas Swen" hahaha so mao to. Hays.
+    I just missed hugging you everytime I see you but mao lagi.
+    I need to discipline myself. So I had to act strong, I need to
+    appear so happy, I need to counter my emotions that might
+    lead me and us to stumble again. It just hurts me, when I turned my 
+    back on you ky biyaan ka ky manglakaw mi. Hayss nagpagawas ra ko 
+    but I'm going to be okay. This is the reality. When you kill
+    your flesh, when you strip off your flesh from your spiritual being
+    it is really painful. Because you are wounding it, we need to kill our flesh.
+    Let's always ask for strength from the Lord gajud. We cannot
+    do this on our own.
+
+    You know what I receive today? I'm just really amazed how God really
+    speaks. It has been revealed to me ba nga for us to build a family,
+    for us to raise a family, dapat magpa puno tas Ginoo sa, dapat 
+    magpa heal sa ta. 
+    Kahibaw ka, grabe ang counter gyud sa enemy nako after encounter.
+    Grabe gajud and there are so many things gina reveal nako that I
+    need to heal from, that I need to be delivered from - traumas,
+    habits, strongholds, generational curses. I can really say nga God is not done
+    yet. The encounter just served as an open door for the Lord to
+    open and and start doing the work in me. I really want to be released from
+    this. I've been struggling. Days nga dili ko makatog. I was really
+    struggling. I want more from the Lord.
+
+    Bok, please remember the very reason why we did this.
+    And it is for the Lord, for Jesus and for the dwelling of the Holy Spirit.
+
+    I'm really anxious. "Lord? kami ba kaha?", "Lord, kanus-a ni kutob".
+    "Unsa na ako future Lord?", "What will I do Lord?".
+    But really, I can always hear "I the Lord will make it happen". Balik-balik
+    balik-balik jud
+
+    Mao ra to. I just really opened my laptop for this HAHA
+
+    ~Grace
+    `
+  },
 
   // ── Add your next letter below this line ────────────────────────────────
   // {

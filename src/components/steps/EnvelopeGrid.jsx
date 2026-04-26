@@ -1,6 +1,6 @@
 import { LETTERS } from '../../data/letters'
 
-const base = Math.max(8, LETTERS.length + 4)
+const base = Math.max(20, LETTERS.length + 4)
 const TOTAL = base % 2 === 0 ? base : base + 1
 
 export default function EnvelopeGrid({ goTo }) {
