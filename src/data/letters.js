@@ -108,7 +108,7 @@ export const LETTERS = [
     ni kutob, Lord. Everyday, sakit kaajo, mura pd kog gibuwagan haha
     mag check sa messages, mag relapse HAHAHAHA. But we need this.
     
-    When I saw you last saturday, going down sa elevator.
+    When I saw you last saturday, going down sa escalator.
     Then I smiled looking at you. I just really missed you.
     Everything went slow, mura man pud kog highschooler oy HAHAHA
     But yah, I want to freeze and go to another way pero ana si
@@ -149,6 +149,40 @@ export const LETTERS = [
 
     ~Grace
     `
+  },
+  {
+    title: "Unto week 2",
+    date: "May 1, 2026",
+    content: `Hello, Boky!
+
+    I'm really happy whenever I see you mujoin ug cell.
+    Being active, being yoked with your GWAPO community.
+    I also see you sa Build&Battle video ni kuya Jeff wearing your
+    new favorite stripes shirt. HAHA
+
+    I just want to say something:
+
+    Take heart and have courage for the Lord is with you!
+    Perez, I can really see you with your family praising with joy.
+    I know God will use you, at some point you might doubt yourself
+    but don't doubt God. Always say yes, Our assignment is to become
+    a witness and to testify. You can testify by how God really turned you not 360 degrees
+    but 180 degrees. A real flip. I'm so happy and really blessed with your life.
+
+    May the peace of God, that transcends all understanding be upon you and
+    always receive it with joy. In everything you do, put your heart into it, and
+    do it not just for yourself but for the Lord.
+
+    I'm always here rooting for you.
+
+    I might be so tipid in replying but my heart is really pounding with joy for you.
+
+    REMINDER: every 3 months lang ka mag shop ug clothes biya
+
+    God Bless! Have a great day ahead!
+
+    ~ Grace 
+`,
   },
 
   // ── Add your next letter below this line ────────────────────────────────
