@@ -184,6 +184,66 @@ export const LETTERS = [
     ~ Grace 
 `,
   },
+  {
+    title: "Tu me manques",
+    date: "May 3, 2026",
+    content: `Boooook,
+
+    Mingawaaa naaaaaa! huhu! If there is a word that just can really describe
+    how I feel.
+
+
+    The peace is there, assurance from the Lord is there, comfort from the
+    Holy Spirit is there.
+    
+    
+    Pero hhooooo! Now, I get to understand why the instruction was "No chat and No seeing of each other".
+    It was not an instruction for us to make things harder, but actually it is an instruction for
+    us to make things easier. To make the journey much easy. It was a divine protection and wisdom.
+
+
+    Every time mu chat ka, sometimes I get too excited. Then get dismayed remembering nga
+    mao na. Every time makakita ko nimo! Sheessh! my default reaction is to smile ear to ear,
+    so happy seeing you. Mingaaw na kaayko nimo.
+    I miss teasing you because you are wearing your favorite shirt again, which is my fave fit
+    of yours. I miss your scent, I miss burying my face sa imo ilok. hahaha
+
+
+    When mupass na ang time from last nakita tika, mingawon nako. Mingawon na kayko.
+    Karun pa lang ko nibalik pamalengke sa carbon, sa pa byahe nako pauli, diha na ning sink in.
+    Haayss, wala si boky.
+
+
+    Anyway, I can do it. I know we can do this.
+    But I just really miss you.
+
+    
+    Another thing. Kaingon ko ako ang 2pm unya ikaw ang 10am HAHAHAHA pero anyway, okay rana.
+    Ako gi-agdan run si April, I also need to usher her and extend my time for her.
+    Don't worry about it.
+
+
+    If time will come nga letters will be unlocked more slowly, mas dugay, or unsa man gani.
+    Just really remember boky nga you are still here in my heart. Not once nga ni attempt ko
+    nga walaon ka.
+
+    As what I have received today, WAITING is really important and part of the journey.
+    It is a preparation. God is doing something while we are waiting. The most important thing
+    as well, is how we respond and how we act while we are waiting. Papuno tas Ginoo!
+
+    I recommend nga attend jud Gravity, lahi jud igo sa gravity hehehe. Something you couldn't miss.
+
+    Mao ra to boky!
+    I will wait for the time that you'll come to me to pray.
+
+
+    I'm excited for the man that you will become in Jesus' Name.
+    Je t'aime mon amour.
+
+    ~ Grace 
+`,
+  },
+
 
   // ── Add your next letter below this line ────────────────────────────────
   // {
