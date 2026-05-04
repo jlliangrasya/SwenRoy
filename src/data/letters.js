@@ -245,46 +245,48 @@ export const LETTERS = [
   },
   {
     title: "Mandey",
-    date:  "Month Day, Year",
+    date:  "April 4, 2026",
     content: `Hi Bok!
-    
-    
+
+
     Hi bok!
-    
-    
+
+
     Hi bok!
-    
-    
+
+
     Hi bok!
-    
-    
+
+
     Wa ka mingawa nako?
     Geh! mao man ka
-    
-    
+
+
     grabe ka talaga
     
     
     wala gyud? sigeee
-    
-    
+
+
     Kahibaw ka. fully working na gamitable na gyud ako esl web app.
     Mao na amo gamit ni ate kylyn run. Pero naa pa ko improvements iadd if naa mahuna-hunaan
     pero as in magamit na gyud siya. Wala may laing nigamit, wala man nilahos tung
     ingon ko nga ning avail.
-    
-    
+
+
     Pero sige lang. importante, nagamit namo ni ate ky.
-    
+
+
     Ayos keyo HAHAHA
     Naa nako student nigamit sad. Naka find ra ko way ma bypass ang firewall sa china.
     eme! not so biggy! naa rako gigamit domain na muwork sa ila
-    
-    
+
+
     Check rasad ko ba, kung gimingaw ba ka
 
 
-    ~Grace`,
+    ~Grace
+    `,
     
   },
 
